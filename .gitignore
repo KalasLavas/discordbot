@@ -1,0 +1,4 @@
+# Specify filepatterns you want git to ignore.
+.env
+whitelist.txt
+*__pycache__
